@@ -32,3 +32,4 @@ FOREIGN KEY
     (fig_num)
 REFERENCES 
     minifigures(fig_num);
+	
