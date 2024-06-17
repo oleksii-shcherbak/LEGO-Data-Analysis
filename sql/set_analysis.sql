@@ -1,3 +1,6 @@
+-- Use the lego_db database
+USE lego_db;
+
 -- Find the total number of LEGO sets
 SELECT COUNT(*) AS total_sets
 FROM 
